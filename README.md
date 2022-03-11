@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **patryk.kulbinski@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **I'd beat you in fps games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Patryk Kulbinski</h1>
+<h1 align="center">Hi 👋, I'm Patryk </h1>
 <h3 align="center">A passionate frontend developer from United Kingdom</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif">
 
